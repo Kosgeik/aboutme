@@ -1,4 +1,4 @@
-👋 Hey there! I’m Willy Kosgei, a Dynamics 365 CE Solution Architect with a passion for weaving together diverse technologies to create seamless experiences for clients. Over the past 8+ years, I’ve been in the trenches, brainstorming innovative solutions that not only streamline CRM processes but also empower users.
+👋 Hi there! I’m Willy Kosgei, a Dynamics 365 CE Solution Architect with a passion for weaving together diverse technologies to create seamless experiences for clients. Over the past 8+ years, I’ve been in the trenches, brainstorming innovative solutions that not only streamline CRM processes but also empower users.
 
 🚀 What gets me excited? Well, it’s the thrill of embedding AI magic into everyday workflows. Whether it’s automating repetitive tasks, enhancing decision-making, or predicting user needs, I’m all about making technology work smarter for us. And guess what? I’m still on my coding journey—I learn something new every day! 🌱
 
